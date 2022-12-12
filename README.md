@@ -1,3 +1,3 @@
-Senior Software Engineer at [InfluxData](https://www.influxdata.com/).
+Senior Software Engineer at [Juju](https://github.com/juju/juju).
 
 ![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimonRichardson&show_icons=true&theme=default)
