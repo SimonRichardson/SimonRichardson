@@ -1,4 +1,4 @@
-Senior Software Engineer at [Juju](https://github.com/juju/juju).
+Software Engineer at [Juju](https://github.com/juju/juju).
 
 <a href="https://github.com/SimonRichardson">
   <img align="center" width="49%" src="./header.svg" />
