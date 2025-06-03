@@ -22,6 +22,3 @@ Software Engineer at [Juju](https://github.com/juju/juju).
 <a href="https://github.com/SimonRichardson">
   <img align="center" width="49%" src="./github-habits.svg" />
 </a>
-<a href="https://github.com/SimonRichardson">
-    <img align="center" width="49%" src="./achievements.svg" />
-</a>
